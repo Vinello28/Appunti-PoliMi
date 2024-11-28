@@ -1,0 +1,42 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Gestione_DB_ASPX", "Gestione_DB_ASPX\", "{CBF8F77E-7148-4D15-89C4-A820B57B6CBC}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.6.1"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_58297"
+		Debug.AspNetCompiler.PhysicalPath = "Gestione_DB_ASPX\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58297\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_58297"
+		Release.AspNetCompiler.PhysicalPath = "Gestione_DB_ASPX\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_58297\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "58297"
+		SlnRelativePath = "Gestione_DB_ASPX\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBF8F77E-7148-4D15-89C4-A820B57B6CBC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CBF8F77E-7148-4D15-89C4-A820B57B6CBC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {606578C3-E7ED-431E-B4DB-E71C807A0833}
+	EndGlobalSection
+EndGlobal

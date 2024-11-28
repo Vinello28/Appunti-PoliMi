@@ -1,0 +1,26 @@
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\DeskAppWS_Vianello.exe.config
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\DeskAppWS_Vianello.exe
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\DeskAppWS_Vianello.pdb
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.Form1.resources
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.Properties.Resources.resources
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.exe
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.pdb
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Utente\Desktop\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.csproj.CopyComplete
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\DeskAppWS_Vianello.exe.config
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\DeskAppWS_Vianello.exe
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\DeskAppWS_Vianello.pdb
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\bin\Debug\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.Form1.resources
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.Properties.Resources.resources
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.csproj.GenerateResource.cache
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.csproj.CopyComplete
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.exe
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\DeskAppWS_Vianello\obj\Debug\DeskAppWS_Vianello.pdb

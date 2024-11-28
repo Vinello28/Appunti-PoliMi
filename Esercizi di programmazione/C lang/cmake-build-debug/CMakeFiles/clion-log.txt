@@ -1,0 +1,35 @@
+"C:\Program Files\JetBrains\CLion 2020.2.3\bin\cmake\win\bin\cmake.exe" -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - NMake Makefiles" "C:\Users\Utente\Desktop\PROGRAMMAZIONE - C"
+-- The C compiler identification is MSVC 19.27.29112.0
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe
+CMake Error at C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:44 (try_compile):
+  Failed to open
+
+    C:/Users/Utente/Desktop/PROGRAMMAZIONE - C/cmake-build-debug/CMakeFiles/CMakeTmp/CMakeLists.txt
+
+  Permission denied
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Check for working C compiler: C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe - broken
+CMake Error at C:/Program Files/JetBrains/CLion 2020.2.3/bin/cmake/win/share/cmake-3.17/Modules/CMakeTestCCompiler.cmake:60 (message):
+  The C compiler
+
+    "C:/Program Files (x86)/Microsoft Visual Studio/2019/Enterprise/VC/Tools/MSVC/14.27.29110/bin/Hostx86/x86/cl.exe"
+
+  is not able to compile a simple test program.
+
+  It fails with the following output:
+
+    
+
+  
+
+  CMake will not be able to correctly generate this project.
+Call Stack (most recent call first):
+  CMakeLists.txt:2 (project)
+
+
+-- Configuring incomplete, errors occurred!
+See also "C:/Users/Utente/Desktop/PROGRAMMAZIONE - C/cmake-build-debug/CMakeFiles/CMakeOutput.log".
+See also "C:/Users/Utente/Desktop/PROGRAMMAZIONE - C/cmake-build-debug/CMakeFiles/CMakeError.log".

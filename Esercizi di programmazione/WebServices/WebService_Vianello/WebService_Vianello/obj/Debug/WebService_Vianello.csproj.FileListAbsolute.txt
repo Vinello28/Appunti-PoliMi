@@ -1,0 +1,112 @@
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\WebService_Vianello.dll.config
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\WebService_Vianello.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\WebService_Vianello.pdb
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\csc.exe
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\csc.exe.config
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\csc.rsp
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\csi.exe
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\csi.exe.config
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\csi.rsp
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.AppContext.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Console.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.Compression.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Claims.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.ValueTuple.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\vbc.exe
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\vbc.exe.config
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\vbc.rsp
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\VBCSCompiler.exe
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.csproj.CopyComplete
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.dll
+C:\Users\Utente\Desktop\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.pdb
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\WebService_Vianello.dll.config
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\WebService_Vianello.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\WebService_Vianello.pdb
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\csc.exe
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\csc.exe.config
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\csc.rsp
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\csi.exe
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\csi.exe.config
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\csi.rsp
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.AppContext.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Console.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.Compression.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.IO.Pipes.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Claims.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.ValueTuple.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\vbc.exe
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\vbc.exe.config
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\vbc.rsp
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\VBCSCompiler.exe
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.csprojAssemblyReference.cache
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.csproj.CoreCompileInputs.cache
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.csproj.CopyComplete
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.dll
+C:\Users\Utente\Desktop\PROGRAMMAZIONE WEBSERVICES\WebService_Vianello\WebService_Vianello\obj\Debug\WebService_Vianello.pdb

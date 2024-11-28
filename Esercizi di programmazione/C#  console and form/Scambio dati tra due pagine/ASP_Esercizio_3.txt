@@ -1,0 +1,8 @@
+Creare una pagina Asp che consenta di effettuare un ordine in una pizzeria con le seguenti informazioni:
+Nome e Cognome
+ora di ritiro
+Base Pizza: Bianca (€ 2,00) - Rossa (€ 3,00)- Calzone (€ 3,50)
+Ingredienti: Mozzarella (€ 0,50) - Crudo (€ 2,00) - Funghi (€ 1,00) - Pancetta (€ 0,75) - Patate (€ 0,50) - Carciofini (€ 0,80)
+Il cliente dovrà selezionare una delle basi e uno o più ingredienti.
+Con il Pulsante Ordina dovrà comparire su un secondo Form l'ordine e il prezzo da pagare e l'immagine della pizza relativa alla base ordinata; con un pulsante indietro tornare alla pagina ordine.
+Buon lavoro.
